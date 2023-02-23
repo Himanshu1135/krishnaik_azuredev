@@ -60,4 +60,4 @@ jobs:
         with:
           app-name: 'krish-model'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_C5A6BEBD303A42F2A7A4A5E04CF4AEE3 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_7C1E7B4432334942B4A0CA5FDB260ABF }}
